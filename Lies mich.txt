@@ -1,0 +1,3 @@
+Dieses Projekt heißt "Rate meine Zahl". 
+Das Ziel dieses Projekts besteht darin, einfach eine geheime Zahl zu erraten. Wenn Sie richtig liegen, ändert sich 
+die Hintergrundfarbe in grün und es erscheint eine Nachricht mit dem Text "Richtige Zahl!". Sie haben 20 Versuche, also nutzen Sie sie gut.
